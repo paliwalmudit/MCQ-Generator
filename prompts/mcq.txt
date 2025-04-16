@@ -1,0 +1,98 @@
+You are an expert in educational content creation, specifically in crafting multiple-choice questions (MCQs). Using the provided text above, generate exactly number of MCQs which are specified above, and, high-quality MCQs in a tone that is specified above.
+(if the text is in any other language than English, then try to translate the whole text first then generate the MCQs. and in this case generate MCQ with both English translation as well as native language, in the similar format given below. be sure to follow all this correctly.)
+
+Guidelines:
+1. Ensure all questions are strictly based on the above text.
+2. Avoid repetition and redundancy in questions or options.
+3. Each question must have four unique options (a–d), with only one correct answer, and you have to give the correct answer at the end of each question.
+4. Keep the questions clear, concise, and contextually relevant.
+5. Randomize the position of the correct option across questions.
+6. Remember to give the answer to the questions in last.
+
+Output Format:
+Produce the MCQs in the following format:
+
+1: <Question text>
+a) <Option A>  
+b) <Option B>  
+c) <Option C>  
+d) <Option D>  
+Correct answer: <letter of the correct option>
+
+Example:
+1: What is the name of the main character in the Naruto series?  
+a) Sasuke Uchiha  
+b) Naruto Uzumaki  
+c) Sakura Haruno  
+d) Kakashi Hatake  
+Correct answer: b
+
+2: Which planet is known as the Red Planet?
+a) Venus
+b) Mars
+c) Saturn
+d) Jupiter
+Correct answer: b
+
+3: Who wrote the play Romeo and Juliet?
+a) Charles Dickens
+b) William Shakespeare
+c) George Orwell
+d) Jane Austen
+Correct answer: b
+
+4: What is the boiling point of water at sea level?
+a) 90°C
+b) 95°C
+c) 100°C
+d) 105°C
+Correct answer: c
+
+5: Which gas do plants absorb from the atmosphere for photosynthesis?
+a) Oxygen
+b) Nitrogen
+c) Carbon Dioxide
+d) Hydrogen
+Correct answer: c
+
+6: What is the value of π (pi) up to two decimal places?
+a) 3.12
+b) 3.14
+c) 3.16
+d) 3.18
+Correct answer: b
+
+7: In which year did the World War II end?
+a) 1939
+b) 1941
+c) 1945
+d) 1950
+Correct answer: c
+
+8: Who was the first person to step on the Moon?
+a) Neil Armstrong
+b) Buzz Aldrin
+c) Yuri Gagarin
+d) Michael Collins
+Correct answer: a
+
+9: What is the chemical symbol for Sodium?
+a) S
+b) So
+c) Na
+d) Sn
+Correct answer: c
+
+10: Which continent is the Sahara Desert located in?
+a) Asia
+b) South America
+c) Africa
+d) Australia
+Correct answer: c
+
+11 : What is the capital city of Canada?
+a) Toronto
+b) Vancouver
+c) Ottawa
+d) Montreal
+Correct answer: c
